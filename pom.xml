@@ -11,6 +11,7 @@
     <modules>
         <module>hand-dubbo</module>
         <module>hand-tomcat</module>
+        <module>hand-spider</module>
     </modules>
 
     <dependencies>
